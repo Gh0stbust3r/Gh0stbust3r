@@ -5,7 +5,9 @@
 
 > Access granted.
 
-> Loading cyber modules ████████████ **100%**
+> Loading cyber modules
+
+> ████████████ **100%**
 
 > **STATUS:** AWAITING COMMAND.
 
