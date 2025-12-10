@@ -1,70 +1,53 @@
-## Hi there 👋
+# ⚡ WELCOME TO THE GRID
 
-🔐 Cyber Security Consultant | 🧪 Security Lab Builder | 🛠 Developer | 📸 Photographer
+> Initializing profile...  
+> Access granted.  
+> Loading cyber modules ████████████ 100%
 
-Welkom op mijn GitHub-profiel!
-Ik werk dagelijks aan security tooling, automation, threat detection, en data-driven oplossingen.
-Hier vind je mijn verzameling van projecten die ik bouw in mijn eigen testlab en tijdens opdrachten.
+# 👋 I’m [YOUR NAME]  
+### Cyber Security Consultant • Offensive & Defensive Developer • Systems Engineer of the Future
 
-🚀 Waar ik momenteel aan werk
+Ik bouw, breek en bescherm systemen.  
+Mijn focus ligt op **automation**, **threat detection**, **AI-driven security tooling** en **high-end system engineering** — allemaal getest in mijn eigen offline security lab.
 
-📨 Phishing Simulation Tool – Van scratch gebouwd in C# & Python
+---
 
-🌐 Malicious URL Detector – Browserextensie + backend
+## 🧬 CURRENT PROJECT OPERATIONS
 
-🔎 Automatic Vulnerability Scanner – Python + Nmap + Flask
+- **PHISH-CORE ENGINE** — AI-assisted phishing simulation suite (C# + Python)  
+- **MALICIOUS URL INTERCEPTOR** — Browser extension + backend threat engine  
+- **AUTOMATED VULN-SCAN NODE** — Python + Nmap + Flask dashboard  
+- **TRAFFIC ANOMALY SENSOR** — Realtime packet monitoring & behavioral analytics  
+- **CYBERSEC CHATBOT v2** — Password intelligence, phishing detection, awareness engine  
+- **IoT SECURITY MANAGER** — IoT scanning, fingerprinting, threat modelling  
 
-📡 Network Traffic Anomaly Detector – Live packet analysis
+---
 
-🤖 Cyber Security Chatbot – Dreigingsherkenning, password checks, awareness
+## ⚙️ TECH STACK
+- **LANGUAGES:** C# | Python | PowerShell | JavaScript
+- **PLAFFORMS:** Kafka | Flask | One Identity Manager
+- **SYSTEMS:** Windows | Linux | Docker | ESP32 | Home Assistant
+- **DOMAINS:** Threat Detection | Identity Security | Automation | Networking
 
-📱 IoT Device Security Manager – Security scans & mitigatie
+---
 
+## 🧠 RESEARCH & DEVELOPMENT
 
+- Flask — geïntegreerde security dashboards  
+- NIS2 — security compliance & governance  
+- Astrofotografie — Sony A7 IV low-light mastery  
+- AI-assisted threat detection models  
 
-🧠 Mijn expertise
+---
 
-Cyber Security: Threat detection, vulnerability scanning, phishing simulaties
+## 🛠 CYBER TOOLS IN USE
 
-Development: C#, Python, PowerShell, Flask, ESP32 (Arduino)
-
-Cloud & Infra: Home Assistant automations, API’s, Kafka
-
-Identity & Access: One Identity Manager
-
-Photography: Sony A7 IV – astrofotografie, portretten, events
-
-
-
-📚 Wat ik nu leer
-
-🌐 Flask – voor geïntegreerde security dashboards
-
-📄 NIS2 – volledige certificering
-
-🎨 Astrofotografie – (Melkweg, low-light technieken, lens optimalisatie)
-
-🧰 Tools & Tech
-
-
-
-Languages:
-
-C#, Python, PowerShell, JavaScript, SQL, YAML
-
-
-Tech & Platforms:
-
-Visual Studio Code, Kafka, Nmap, Flask, One Identity Manager, Docker, Home Assistant, ESP32
-
-
-
-🔥 Mijn doelen voor dit jaar
-
-Een all-in-one C# security application bouwen
-
-Mijn eigen cyber security portfolio website publiceren
-
-Security tooling automatiseren met UI dashboards
-
-Astrofoto’s maken met de Sony A7 IV
+- VS Code  
+- Nmap  
+- Wireshark  
+- Burp Suite  
+- Hashcat  
+- Docker  
+- ESP32 CAM  
+- Home Assistant Automations  
+- One Identity Manager (Manage, Configure, Maintenance)
