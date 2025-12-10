@@ -65,4 +65,6 @@ Mijn focus ligt op **high-velocity automation**, **real-time threat detection**,
 
 ***
 
-> **GH0STBUST3R** // **GRID STATUS:** **ACTIVE** // **LOCATION:** INSIDE YOUR MACHINES
+> // **GRID STATUS:** **ACTIVE**
+
+> // **LOCATION:** INSIDE YOUR MACHINES
