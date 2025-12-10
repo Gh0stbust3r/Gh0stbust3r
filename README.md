@@ -11,7 +11,7 @@
 
 > **STATUS:** AWAITING COMMAND.
 
-# 👤 CYBER-OPERATOR DESIGNATION: [YOUR NAME]
+# 👤 CYBER-OPERATOR DESIGNATION: **Gh0stbust3r**
 ### **// ROLE:** Cyber Security Consultant • Offensive & Defensive Developer • Systems Engineer of the Future
 
 **MISSION STATEMENT:** Ik bouw, breek en bescherm systemen. **Digital Architect** met een focus op de volgende generatie security.
