@@ -1,9 +1,12 @@
 # ⚡ WELCOME TO THE GRID // INITIATE_HACK_MODE
 ## <System Online: [**ACCESS LEVEL: ROOT**] // **SECURE CHANNEL ESTABLISHED**>
 
-> Initializing profile... 
-> Access granted. 
+> Initializing profile...
+
+> Access granted.
+
 > Loading cyber modules ████████████ **100%**
+
 > **STATUS:** AWAITING COMMAND.
 
 # 👤 CYBER-OPERATOR DESIGNATION: [YOUR NAME]
