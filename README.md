@@ -14,9 +14,11 @@
 # 👤 CYBER-OPERATOR DESIGNATION: **GH0STBUST3R**
 ### **// ROLE:** Cyber Security Consultant • Offensive & Defensive Developer • Systems Engineer of the Future
 
-**MISSION STATEMENT:** Ik bouw, breek en bescherm systemen. **Digital Architect** met een focus op de volgende generatie security.
+**MISSION STATEMENT:** Building, testing and breaking systems. 
 
-Mijn focus ligt op **high-velocity automation**, **real-time threat detection**, **AI-driven security tooling** en **cutting-edge system engineering** — alles gecalibreerd en getraind in mijn eigen **offline security lab (The Sandbox)**.
+**Digital Architect:** Building a new future for our next gen.
+
+My focus is about high-velocity automation, real-time threat detection, AI-driven security tooling en cutting-edge system engineering — everything is calibrated for and inside my own offline security lab.
 
 ---
 
